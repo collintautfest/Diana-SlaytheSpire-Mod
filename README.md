@@ -5,3 +5,6 @@
         - Elemental Scion
         - Possession
         - Genie's Wrath
+
+## Installation
+    - Requires ||Mod the spire||
